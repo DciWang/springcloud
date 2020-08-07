@@ -1,19 +1,19 @@
-package com.dciwang.springcloud;
+package com.diwang.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
  * @Author DciWang
  * @Description TODO
- * @Date 2020/7/31 下午12:33
+ * @Date 2020/8/6 下午2:17
  * @Version 1.0
  */
 @SpringBootApplication
-@EnableEurekaClient
-public class OrderMain80 {
+@EnableEurekaServer
+public class EurekaMain7002 {
     public static void main(String[] args) {
-        SpringApplication.run(OrderMain80.class);
+        SpringApplication.run(EurekaMain7002.class, args);
     }
 }

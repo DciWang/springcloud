@@ -1,14 +1,18 @@
 server:
-  port: 8088
-  # Let NetworkManager manage all devices on this system
-  network:
-    ethernets:
-      ens33:                  # 配置的网卡名称
-        dhcp4: no           # 关闭dhcp4
-        dhcp6: no           # 关闭dhcp6
-        addresses: [192.168.0.120/24]       # 设置本机IP地址及掩码
-        gateway4: 192.168.0.1               # 设置网关
-        nameservers:
-          addresses: [114.114.114.114, 8.8.8.8,192.168.120.2,127.0.0.53]       # 设置DNS
-    version: 2
-    renderer: NetworkManager
+  port: 8000
+spring:
+  application:
+#    服务名称
+    name: cloud-order-service
+
+
+eureka:
+  #声明它是一个eureka的客户端
+  client:
+    #表示是否将自己注册进eurekaServer，默认为ture
+    register-with-eureka: true
+    #表示是否从EurekaServer抓取已有的注册信息，默认为true，单点无所谓，集群必须设为true才能配合ribbon使用负载均衡
+    fetch-registry: true
+    #表示客户端注册的eurekaServer的地址
+    service-url:
+      defaultZone: http://localhost:7001/eureka

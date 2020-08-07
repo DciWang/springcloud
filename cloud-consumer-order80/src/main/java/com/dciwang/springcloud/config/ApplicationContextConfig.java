@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
  * @Version 1.0
  */
 //要获取resttemplate对象，要把它注入到spring的容器里面
-    @Configuration
+@Configuration
 public class ApplicationContextConfig {
     @Bean
     public RestTemplate restTemplate(){
