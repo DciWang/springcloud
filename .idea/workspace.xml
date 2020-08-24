@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61a78326-0155-477f-a21a-5fa62478f0df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Aspect" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/src/maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1f7EwtkRV6j9qVu8EcOMhUktdjM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29770115" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dciwang.springcloud.controller" />
+      <recent name="com.dciwang.springcloud.entities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources" />
+      <recent name="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/dciwang/springcloud" />
+      <recent name="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/dciwang/springcloud" />
+      <recent name="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/dciwang/springcloud/entities" />
+      <recent name="$PROJECT_DIR$/spring-api -commons/src/main/java/com/dciwang/springcloud/enties" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderMain80">
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dciwang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dciwang.springcloud.EurekaMain7001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.diwang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.diwang.springcloud.EurekaMain7002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dciwang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dciwang.springcloud.OrderMain80" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dciwang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dciwang.springcloud.Payment8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dciwang.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dciwang.springcloud.Payment8002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.Payment8001" />
+      <item itemvalue="Spring Boot.Payment8002" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaMain7002" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.Payment8002" />
+        <item itemvalue="Spring Boot.Payment8001" />
+        <item itemvalue="Spring Boot.OrderMain80" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.15536723" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a78326-0155-477f-a21a-5fa62478f0df" name="Default Changelist" comment="" />
+      <created>1595560972730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595560972730</updated>
+      <workItem from="1595560975755" duration="5818000" />
+      <workItem from="1595645225647" duration="1494000" />
+      <workItem from="1595818035473" duration="602000" />
+      <workItem from="1595821910862" duration="18358000" />
+      <workItem from="1596098447499" duration="5601000" />
+      <workItem from="1596105144532" duration="19081000" />
+      <workItem from="1596422082325" duration="1000000" />
+      <workItem from="1596435386584" duration="230000" />
+      <workItem from="1596443188745" duration="751000" />
+      <workItem from="1596451454200" duration="990000" />
+      <workItem from="1596508402701" duration="6230000" />
+      <workItem from="1596603760475" duration="4954000" />
+      <workItem from="1596615140801" duration="14587000" />
+      <workItem from="1596703656113" duration="2231000" />
+      <workItem from="1596798461593" duration="263000" />
+      <workItem from="1597027444188" duration="52000" />
+      <workItem from="1597027646346" duration="846000" />
+      <workItem from="1597030388861" duration="6870000" />
+      <workItem from="1597054363402" duration="4443000" />
+      <workItem from="1597119449824" duration="112000" />
+      <workItem from="1597119895760" duration="11513000" />
+      <workItem from="1597805802770" duration="93000" />
+      <workItem from="1598265332058" duration="773000" />
+    </task>
+    <task id="LOCAL-00001" summary="fist commit">
+      <created>1596451682557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596451682557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add eureka">
+      <created>1596611941423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596611941423</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add eurekaserver70002">
+      <created>1596798697892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596798697892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aspect">
+      <created>1597055786624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597055786625</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加 服务提供者8002">
+      <created>1597132992863</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597132992863</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fist commit" />
+    <MESSAGE value="add eureka" />
+    <MESSAGE value="add eurekaserver70002" />
+    <MESSAGE value="Aspect" />
+    <MESSAGE value="添加 服务提供者8002" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 服务提供者8002" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1597034260423">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1597034260423" />
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure" timestamp="1597122427136">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1597122427136" />
+    <state x="478" y="162" width="1282" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597130735627">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="478" y="162" width="1282" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1597130735627" />
+    <state x="687" y="349" width="602" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596443222575">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="687" y="349" width="602" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1596443222575" />
+    <state x="801" y="260" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1596703845976">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="260" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1596703845976" />
+    <state x="380" y="462" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597034125552">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="380" y="462" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1597034125552" />
+    <state x="726" y="299" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598265539258">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="299" width="524" height="507" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598265539258" />
+    <state x="381" y="36" width="1209" height="963" key="CommitChangelistDialog2" timestamp="1597132992627">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="381" y="36" width="1209" height="963" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1597132992627" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597131949408">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1597131949408" />
+    <state width="1494" height="359" key="GridCell.Tab.0.bottom" timestamp="1598266158862">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158862" />
+    <state width="1494" height="359" key="GridCell.Tab.0.center" timestamp="1598266158861">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158861" />
+    <state width="1494" height="359" key="GridCell.Tab.0.left" timestamp="1598266158860">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158860" />
+    <state width="1494" height="359" key="GridCell.Tab.0.right" timestamp="1598266158862">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158862" />
+    <state width="1494" height="359" key="GridCell.Tab.1.bottom" timestamp="1598266158865">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158865" />
+    <state width="1494" height="359" key="GridCell.Tab.1.center" timestamp="1598266158863">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158863" />
+    <state width="1494" height="359" key="GridCell.Tab.1.left" timestamp="1598266158863">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158863" />
+    <state width="1494" height="359" key="GridCell.Tab.1.right" timestamp="1598266158864">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158864" />
+    <state width="1494" height="359" key="GridCell.Tab.2.bottom" timestamp="1598266158866">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158866" />
+    <state width="1494" height="359" key="GridCell.Tab.2.center" timestamp="1598266158866">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158866" />
+    <state width="1494" height="359" key="GridCell.Tab.2.left" timestamp="1598266158865">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158865" />
+    <state width="1494" height="359" key="GridCell.Tab.2.right" timestamp="1598266158866">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1494" height="359" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1598266158866" />
+    <state x="490" y="207" width="997" height="691" key="Registry" timestamp="1596101956736">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="490" y="207" width="997" height="691" key="Registry/67.27.1853.1053@67.27.1853.1053" timestamp="1596101956736" />
+    <state x="475" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1597123088077">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="475" y="187" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1597123088077" />
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1597133057884">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1597133057884" />
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1596508403783">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1596508403783" />
+    <state x="760" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597054383175">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="760" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1597054383175" />
+    <state x="367" y="207" width="1436" height="604" key="new project wizard" timestamp="1597128111289">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="367" y="207" width="1436" height="604" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1597128111289" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1595841474519">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1595841474519" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/dciwang/springcloud/controller/PaymentController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
