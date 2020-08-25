@@ -1,13 +1,13 @@
 package com.dciwang.springcloud.controller;
 
+
 import com.dciwang.springcloud.entities.CommonResult;
 import com.dciwang.springcloud.entities.Payment;
-import com.dciwang.springcloud.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
+import com.dciwang.springcloud.service.PaymentService;
 
 /**
  * @Author DciWang
@@ -21,6 +21,7 @@ import org.springframework.web.bind.annotation.*;
 public class PaymentController {
     @Autowired
     private PaymentService paymentService;
+
     @Value("${server.port}")
     private String serverPort;
 
@@ -29,7 +30,7 @@ public class PaymentController {
         int result = paymentService.inser(payment);
         log.info("插入的结果是" + result+"🏇哈哈哈哈");
         if (result > 0) {
-            return new CommonResult(200, "插入数据库成功，serverPort：" +serverPort +","+ result);
+            return new CommonResult(200, "插入数据库成功，serverPort：" +serverPort+","+ result);
         } else {
             return new CommonResult(500, "插入失败", null);
         }
@@ -40,7 +41,7 @@ public class PaymentController {
         Payment payment = paymentService.getByPaymentId(id);
         log.info("查询的结果是" + payment);
         if (payment != null) {
-            return new CommonResult(200, "查询成功，serverPort：" +serverPort+ ","+ payment+"嘿嘿嘿嘿嘿");
+            return new CommonResult(200, "插入数据库成功，serverPort：" +serverPort +" ,"+ payment);
         } else {
             return new CommonResult(500, "查询失败", null);
         }
